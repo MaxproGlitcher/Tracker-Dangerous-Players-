@@ -3,5 +3,5 @@ Soon Release !!!
 
 
 ```lua
-https://raw.githubusercontent.com/MaxproGlitcher/Tracker-Dangerous-Players-/refs/heads/main/.luau
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MaxproGlitcher/Tracker-Dangerous-Players-/refs/heads/main/.luau))()
 ```
